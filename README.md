@@ -1,2 +1,2 @@
-# Ecommerce-funactionaliy
-deisigned a webpage to practice mechanism of fetching api's into web page
+# Fetch Api
+deisigned a webpage to understand mechanism of fetch api in web page
